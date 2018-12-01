@@ -1,0 +1,42 @@
+html, body{
+	height: 100%;
+	width: 100%;
+}
+body{
+	overflow-y: hidden;
+	background:red;
+}
+
+.bg-1{
+	height: 50%;
+}
+.bg-2{
+	height: 50%;
+}
+.image {
+	height: 100%;
+}
+.text{
+	display: inline-block;
+	width:65%;
+	margin-left: 5%;
+}
+.bg-2{
+	background: grey;
+}
+.test{
+	height: 100%;
+	width: 30%;
+	display: inline-block;
+	vertical-align: middle;
+}
+.image2{	
+	height: 100%;	
+}
+.text2{
+
+	display: inline-block;
+	width:65%;
+	text-align: right;
+	margin-right: 5%;
+}
